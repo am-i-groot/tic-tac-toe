@@ -6,11 +6,8 @@
 - Integrated conditional rendering and reset functionality for smooth gameplay.
 
 ###
+![image](https://github.com/user-attachments/assets/ca8542b7-4768-40a3-86c3-741f082e1304)
 
-<div align="center">
-  <img src="[https://i.imgur.com/8BgVXcY.png](https://github.com/user-attachments/assets/ca8542b7-4768-40a3-86c3-741f082e1304)">
-</div>
-<!-- ![image](https://github.com/user-attachments/assets/ca8542b7-4768-40a3-86c3-741f082e1304) -->
 ![image](https://github.com/user-attachments/assets/079d6510-6ad0-4852-9890-907d06258486)
 ![image](https://github.com/user-attachments/assets/c42ded7d-c23b-4637-8154-46c5267f74c4)
 

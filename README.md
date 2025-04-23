@@ -1,3 +1,18 @@
+# Tic-Tac-Toe Game (React)
+- Built a fully interactive 2-player game using React.js and JavaScript logic.
+
+- Handled game state and win conditions using useState and array-based logic.
+
+- Integrated conditional rendering and reset functionality for smooth gameplay.
+
+###
+
+![image](https://github.com/user-attachments/assets/ca8542b7-4768-40a3-86c3-741f082e1304)
+![image](https://github.com/user-attachments/assets/079d6510-6ad0-4852-9890-907d06258486)
+![image](https://github.com/user-attachments/assets/c42ded7d-c23b-4637-8154-46c5267f74c4)
+
+###
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
